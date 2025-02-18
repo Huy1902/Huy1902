@@ -2,7 +2,6 @@
 
 ## About Me
 - 🌱 Currently learning more about Machine Learning and Reinforcement Learning.
-- 📊 Confident in my math skills and familiar with various machine learning libraries.
 - 💻 Passionate about coding and technology.
 - 🤝 Open to collaborations and new ideas.
 
