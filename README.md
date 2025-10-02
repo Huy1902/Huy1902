@@ -28,7 +28,7 @@
 - Experienced in **paper reading, refactoring, and reproducibility** of research code  
 - Completed courses:  
   - [Neuromatch Academy Deep Learning](https://deeplearning.neuromatch.io/)  
-  - [CS188: Introduction to Artificial Intelligence (UC Berkeley)]([http://ai.berkeley.edu/home.html](https://inst.eecs.berkeley.edu/~cs188/sp24/))  
+  - [CS188: Introduction to Artificial Intelligence (UC Berkeley)](https://inst.eecs.berkeley.edu/~cs188/sp24/)
   - Major in Information Technology at **UET**
 
 ---
