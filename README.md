@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Huy!
-
 ## 🚀 About Me  
 - 🎓 Being student at the **University of Engineering and Technology (VNU-UET)**  
 - 🌱 Learning about **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**  
@@ -22,7 +20,7 @@
 - Experimented with **LangChain** for LLM applications  
 - Deployed services on **AWS (CloudFront, S3)** and containerized with **Docker**  
 - Participated in **Kaggle competitions**  
-- Strong background in **Mathematics** (Real Analysis, Mathematics for ML)  
+- **Mathematics** (Real Analysis, Mathematics for ML)  
 - Completed courses:  
   - [Neuromatch Academy Deep Learning](https://deeplearning.neuromatch.io/)  
   - [CS188: Introduction to Artificial Intelligence (UC Berkeley)](https://inst.eecs.berkeley.edu/~cs188/sp24/)
